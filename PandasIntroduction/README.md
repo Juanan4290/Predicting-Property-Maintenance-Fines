@@ -1,4 +1,4 @@
-## Ovierview - Pandas Introduction
+## Overview - Pandas Introduction
 This project is an introduction to pandas. It loads the olympics dataset (olympics.csv), which was derrived from the Wikipedia 
 entry on [All Time Olympic Games Medals](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table), 
 and does some basic data cleaning. 
